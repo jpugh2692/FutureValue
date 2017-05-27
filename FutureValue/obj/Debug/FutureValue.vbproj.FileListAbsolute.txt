@@ -1,0 +1,9 @@
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\bin\Debug\FutureValue.xml
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\obj\Debug\FutureValue.Resources.resources
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\obj\Debug\FutureValue.vbproj.GenerateResource.Cache
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\obj\Debug\FutureValue.xml
+C:\Users\James Pugh\Documents\PHSC\Intro to Software Development\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
